@@ -1,0 +1,22 @@
+h1{
+    color: white;
+    font-size: 200px;
+}
+body{
+    background-color: rgb(190, 106, 106);
+}
+
+img:hover{
+    background-color: gold;
+}
+
+/*           class selectors                   */
+.broccoli{
+    background-color: #217113;
+}
+.circular{
+    border-radius: 100%;
+}
+.bacon{
+    background-color: red;
+}
